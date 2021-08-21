@@ -1,6 +1,8 @@
-#fundo{
-    background-color: darkgray;
+#fundoo{
+    background-color: rgb(221, 221, 221);
 }
+
+
 
 .gallery_product
 {
@@ -20,3 +22,4 @@
 #red{
     border-radius: 25px;
 }
+
