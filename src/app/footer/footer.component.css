@@ -1,0 +1,13 @@
+.container-footer {
+  align-items: flex-end;
+}
+
+.siga {
+  display: flex;
+  flex-direction: column;
+  align-items: inherit;
+}
+
+.p-siga {
+  margin: 0 34px;
+}

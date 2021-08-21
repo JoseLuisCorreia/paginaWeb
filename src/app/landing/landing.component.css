@@ -1,0 +1,22 @@
+#fundo{
+    background-color: darkgray;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.gallery_product .title{
+  color:#fff;
+  margin: 0;
+  position:relative;
+  bottom:50px;
+  left:10px;
+}
+.gallery_product .title small{
+  display:block;
+}
+
+#red{
+    border-radius: 25px;
+}
